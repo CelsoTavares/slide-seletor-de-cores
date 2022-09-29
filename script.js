@@ -31,7 +31,7 @@ function ative(){
   setInterval( ()=> {
   counter++
   
-  if(counter > 9){
+if(counter > allImages.length -1){
   counter = 0
    }
  
