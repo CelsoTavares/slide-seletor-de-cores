@@ -44,7 +44,7 @@ function ative(){
 
 change1.addEventListener("click", () =>{ 
   document.body.style.backgroundColor = "#ff8080"
-  img.style.marginLeft = '-100%'
+  img.style.marginLeft = '00%'
 })
 
 change2.addEventListener("click", () => {
