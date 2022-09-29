@@ -2,7 +2,10 @@
   margin: 0;
   padding: 0;
 }
-
+body {
+  overflow: hidden;
+  background: #ff8080;
+}
 .main {
   display: flex;
   justify-content: space-between;
