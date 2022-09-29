@@ -64,18 +64,22 @@ audio {
 }
 
 .img {
-  margin: 0 auto;
-  width: 80vw;
-  height: 0vh;
+  display: flex;
+  margin: 5% auto;
+  max-width: 800px;
+  max-height: 500px;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-size: cover;
   transition: ease-in-out 2s;
   overflow: hidden;
-  border: 10px black;
   box-shadow: 10px 10px 8px black;
   border: 5px solid white;
   border-radius: 5px;
+}
+
+img {
+  width: 100%;
 }
 
 footer {
@@ -83,7 +87,8 @@ footer {
   display: flex;
   justify-content: center;
 }
-footer a {
+
+a {
   position: absolute;
   bottom: 1%;
   padding: 0 1%;
