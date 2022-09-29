@@ -1,8 +1,10 @@
 # Slide seletor de Cores
 
 * ## Sobre
-    #### Neste projeto você pode escolher a cor de fundo e ao clicar aparece uma imagem, cada uma com uma mensagem e ainda ouvindo uma boa música.
-    #### Projeto responsivo e com efeitos de transição.
+    #### Projeto slide, as imagens e o background ficam passando automaticamente, mas você pode escolher o background e as imagens clicando nas bolinhas na parte superior, aperte o play para assistir ouvindo uma boa música.
+    #### Projeto responsivo, mas sem uso de media queries.
+https://user-images.githubusercontent.com/109553661/193060114-7ead1a59-8915-4842-9aa1-fb42b5d3c5ea.mp4
+
 
  
 * ## Tecnologias 
