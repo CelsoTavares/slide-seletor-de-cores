@@ -71,7 +71,7 @@ audio {
   background-repeat: no-repeat;
   background-position: right;
   background-size: cover;
-  transition: margin-left 2s, ease-in-out 2s;
+  transition: ease-in-out 2s;
   overflow: hidden;
   box-shadow: 10px 10px 8px black;
   border: 5px solid white;
