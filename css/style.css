@@ -14,8 +14,8 @@
 
 audio {
   display: block;
-  color: blue;
-  margin: 1% auto;
+  margin: 2% auto;
+  max-width: 50%;
 }
 
 .color1, .color10, .color9, .color8, .color7, .color6, .color5, .color4, .color3, .color2 {
@@ -65,11 +65,11 @@ audio {
 
 .img {
   display: flex;
-  margin: 5% auto;
+  margin: 7% auto 0;
   max-width: 800px;
   max-height: 500px;
   background-repeat: no-repeat;
-  background-position: right;
+  background-position: center;
   background-size: cover;
   transition: ease-in-out 2s;
   overflow: hidden;
@@ -83,14 +83,16 @@ img {
 }
 
 footer {
+  position: absolute;
+  bottom: 0.5%;
+  width: 100%;
   margin: 0 auto;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 a {
-  position: absolute;
-  bottom: 1%;
   padding: 0 1%;
   margin-bottom: 0;
   text-decoration: none;
