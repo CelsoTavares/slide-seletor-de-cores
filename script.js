@@ -90,5 +90,5 @@ change9.addEventListener("click", () => {
 change10.addEventListener("click", () => {
   document.body.style.backgroundColor = "#df9f9f"
   img.style.marginLeft = '-900%'
-})
 
+})
