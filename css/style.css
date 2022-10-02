@@ -6,7 +6,7 @@ body {
   overflow: hidden;
   background: #ff8080;
 }
-.main {
+.header {
   display: flex;
   justify-content: space-between;
   align-items: center;
